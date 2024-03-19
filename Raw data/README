@@ -1,4 +1,4 @@
-This folder contains raw data from OD600 (Master.csv) and Respiration (12.14.2020, 12.15.2020, and 12.16.2020, separated by day).
+This folder contains raw data from OD600 (Master.csv) and Respiration (Resp_data: 12.14.2020, 12.15.2020, and 12.16.2020, separated by day).
 
 Each dataset has an associated R code (in the code branch that extracts the data from the data files and reproduces the analyses presented in the paper).
 
