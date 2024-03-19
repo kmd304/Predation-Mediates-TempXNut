@@ -1,9 +1,10 @@
-This folder contains raw data from OD600 (Master.csv), Respiration (Resp_data: 12.14.2020, 12.15.2020, and 12.16.2020, separated by day), Cilitates (Protist.csv), and bioinformatic analysis of prokaryotic communities (mapping_16s_all.txt, 16S-taxonomy-all.qza, and 16S-dada2table_all.qza) 
+This folder contains raw data from OD600 (Master.csv), Respiration (Resp_data: 12.14.2020, 12.15.2020, and 12.16.2020, separated by day), Cilitates (Protist.csv), Structural equation modeling (sem.new.csv) and bioinformatic analysis of prokaryotic communities (mapping_16s_all.txt, 16S-taxonomy-all.qza, and 16S-dada2table_all.qza) 
 
 Each dataset has an associated R code (in the main branch that extracts the data from the data files and reproduces the analyses presented in the paper).
 
 1. OD600 data is paired with R code: Spec_analyses_Git.R
 2. Respirometry data is paired with R code: Respirometry_analysis_Git.R *Respirometry_analysis_Git.R must be run first before OD600
 3. Ciliate data is paired with R code: Protist.R
-4. Bioinformatic data is paired with R code: protist_16S_processing_analysis.R
+4. Structural equation modeling is paired with R code: sem.R
+5. Bioinformatic data is paired with R code: protist_16S_processing_analysis.R
 
