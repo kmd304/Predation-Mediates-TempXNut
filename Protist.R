@@ -12,7 +12,7 @@ library(factoextra)
 library(corrplot)
 
 
-trying <- read.csv("C:/Users/Katrina/Box/Duke/Kat-PhD/projects/fall-winter-2020-exp/Chapter.1/00_raw_data/trying.csv", na.strings="NA",stringsAsFactors = FALSE)
+trying <- read.csv("C:/Users/Katrina/Box/Duke/Kat-PhD/projects/fall-winter-2020-exp/Chapter.1/00_raw_data/protist.csv", na.strings="NA",stringsAsFactors = FALSE)
 trying <-na.omit(trying)
 
 # Here we transform variables nutrient, protist, and temp to factor:
