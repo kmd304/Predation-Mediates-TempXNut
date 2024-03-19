@@ -6,7 +6,7 @@ The following code was used in the analysis of this study:
 1. Determining estimated rates of respiration based on oxygen consumption -----------------(CODE: Respirometry_analysis_Git.R)
 2. Analysis of microbial respiration and biomass (using OD600) ----------------------------(CODE: Spec_analyses_Git.R)
 3. Analysis of ciliate community diversity and response  ----------------------------------(CODE: Protist.R)
-4.
+4. Analysis of direct and indirect effects (SEM) ------------------------------------------(CODE: sem.R)
 5. Bioinformatic handling of the 16S Illumina sequence data, and subsequent analysis-------(CODE: protist_16S_processing_analysis.R)
 
 Raw sequence data for this project is open-access and available on the NCBI SRA database:
