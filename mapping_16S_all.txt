@@ -1,0 +1,145 @@
+SampleID	samp	Nutrient 	Temp	Protist	analyze	Nutrient_Temp
+S1-Half22-Yes-16S	S1	Half	22C	Protist	keep	Half_22C
+S10-Half22-Yes-16S	S10	Half	22C	Protist	keep	Half_22C
+S100-Full25-Yes-16S	S100	Full	25C	Protist	out	Full_25C
+S100-Full25-Yes-16SB	S100	Full	25C	Protist	keep	Full_25C
+S101-Full25-Yes-16S	S101	Full	25C	Protist	out	Full_25C
+S101-Full25-Yes-16SB	S101	Full	25C	Protist	keep	Full_25C
+S102-Full25-Yes-16S	S102	Full	25C	Protist	out	Full_25C
+S102-Full25-Yes-16SB	S102	Full	25C	Protist	keep	Full_25C
+S103-Full25-Yes-16S	S103	Full	25C	Protist	out	Full_25C
+S103-Full25-Yes-16SB	S103	Full	25C	Protist	keep	Full_25C
+S104-Full25-Yes-16S	S104	Full	25C	Protist	out	Full_25C
+S104-Full25-Yes-16SB	S104	Full	25C	Protist	keep	Full_25C
+S105-Full25-Yes-16S	S105	Full	25C	Protist	out	Full_25C
+S105-Full25-Yes-16SB	S105	Full	25C	Protist	keep	Full_25C
+S106-Full25-Yes-16S	S106	Full	25C	Protist	out	Full_25C
+S106-Full25-Yes-16SB	S106	Full	25C	Protist	keep	Full_25C
+S107-Full25-Yes-16S	S107	Full	25C	Protist	out	Full_25C
+S107-Full25-Yes-16SB	S107	Full	25C	Protist	keep	Full_25C
+S108-Full25-Yes-16S	S108	Full	25C	Protist	out	Full_25C
+S108-Full25-Yes-16SB	S108	Full	25C	Protist	keep	Full_25C
+S109-Full25-Yes-16S	S109	Full	25C	Protist	out	Full_25C
+S109-Full25-Yes-16SB	S109	Full	25C	Protist	keep	Full_25C
+S11-Half22-Yes-16S	S11	Half	22C	Protist	keep	Half_22C
+S110-Full25-Yes-16S	S110	Full	25C	Protist	out	Full_25C
+S110-Full25-Yes-16SB	S110	Full	25C	Protist	keep	Full_25C
+S111-Full25-No-16S	S111	Full	25C	No protist	out	Full_25C
+S111-Full25-No-16SB	S111	Full	25C	No protist	keep	Full_25C
+S112-Full25-No-16S	S112	Full	25C	No protist	out	Full_25C
+S112-Full25-No-16SB	S112	Full	25C	No protist	keep	Full_25C
+S113-Full25-No-16S	S113	Full	25C	No protist	out	Full_25C
+S113-Full25-No-16SB	S113	Full	25C	No protist	keep	Full_25C
+S114-Full25-No-16S	S114	Full	25C	No protist	out	Full_25C
+S114-Full25-No-16SB	S114	Full	25C	No protist	keep	Full_25C
+S115-Full25-No-16S	S115	Full	25C	No protist	out	Full_25C
+S115-Full25-No-16SB	S115	Full	25C	No protist	keep	Full_25C
+S116-Full25-No-16S	S116	Full	25C	No protist	out	Full_25C
+S116-Full25-No-16SB	S116	Full	25C	No protist	keep	Full_25C
+S117-Full25-No-16S	S117	Full	25C	No protist	out	Full_25C
+S117-Full25-No-16SB	S117	Full	25C	No protist	keep	Full_25C
+S118-Full25-No-16S	S118	Full	25C	No protist	out	Full_25C
+S118-Full25-No-16SB	S118	Full	25C	No protist	keep	Full_25C
+S119-Full25-No-16S	S119	Full	25C	No protist	out	Full_25C
+S119-Full25-No-16SB	S119	Full	25C	No protist	keep	Full_25C
+S12-Half22-Yes-16S	S12	Half	22C	Protist	keep	Half_22C
+S120-Full25-No-16S	S120	Full	25C	No protist	out	Full_25C
+S120-Full25-No-16SB	S120	Full	25C	No protist	keep	Full_25C
+S13-Half22-Yes-16S	S13	Half	22C	Protist	keep	Half_22C
+S14-Half22-Yes-16S	S14	Half	22C	Protist	keep	Half_22C
+S15-Half22-Yes-16S	S15	Half	22C	Protist	keep	Half_22C
+S16-Half22-Yes-16S	S16	Half	22C	Protist	keep	Half_22C
+S17-Half22-Yes-16S	S17	Half	22C	Protist	keep	Half_22C
+S18-Half22-Yes-16S	S18	Half	22C	Protist	keep	Half_22C
+S19-Half22-Yes-16S	S19	Half	22C	Protist	keep	Half_22C
+S2-Half22-Yes-16S	S2	Half	22C	Protist	keep	Half_22C
+S20-Half22-Yes-16S	S20	Half	22C	Protist	keep	Half_22C
+S21-Half22-No-16S	S21	Half	22C	No protist	keep	Half_22C
+S22-Half22-No-16S	S22	Half	22C	No protist	keep	Half_22C
+S23-Half22-No-16S	S23	Half	22C	No protist	keep	Half_22C
+S24-Half22-No-16S	S24	Half	22C	No protist	keep	Half_22C
+S25-Half22-No-16S	S25	Half	22C	No protist	keep	Half_22C
+S26-Half22-No-16S	S26	Half	22C	No protist	keep	Half_22C
+S27-Half22-No-16S	S27	Half	22C	No protist	keep	Half_22C
+S28-Half22-No-16S	S28	Half	22C	No protist	keep	Half_22C
+S29-Half22-No-16S	S29	Half	22C	No protist	keep	Half_22C
+S3-Half22-Yes-16S	S3	Half	22C	Protist	keep	Half_22C
+S30-Half22-No-16S	S30	Half	22C	No protist	keep	Half_22C
+S31-Half25-Yes-16S	S31	Half	25C	Protist	keep	Half_25C
+S32-Half25-Yes-16S	S32	Half	25C	Protist	keep	Half_25C
+S33-Half25-Yes-16S	S33	Half	25C	Protist	keep	Half_25C
+S34-Half25-Yes-16S	S34	Half	25C	Protist	keep	Half_25C
+S35-Half25-Yes-16S	S35	Half	25C	Protist	keep	Half_25C
+S36-Half25-Yes-16S	S36	Half	25C	Protist	keep	Half_25C
+S37-Half25-Yes-16S	S37	Half	25C	Protist	keep	Half_25C
+S38-Half25-Yes-16S	S38	Half	25C	Protist	keep	Half_25C
+S39-Half25-Yes-16S	S39	Half	25C	Protist	keep	Half_25C
+S4-Half22-Yes-16S	S4	Half	22C	Protist	keep	Half_22C
+S40-Half25-Yes-16S	S40	Half	25C	Protist	keep	Half_25C
+S41-Half25-Yes-16S	S41	Half	25C	Protist	keep	Half_25C
+S42-Half25-Yes-16S	S42	Half	25C	Protist	keep	Half_25C
+S43-Half25-Yes-16S	S43	Half	25C	Protist	keep	Half_25C
+S44-Half25-Yes-16S	S44	Half	25C	Protist	keep	Half_25C
+S45-Half25-Yes-16S	S45	Half	25C	Protist	keep	Half_25C
+S46-Half25-Yes-16S	S46	Half	25C	Protist	keep	Half_25C
+S47-Half25-Yes-16S	S47	Half	25C	Protist	keep	Half_25C
+S48-Half25-Yes-16S	S48	Half	25C	Protist	keep	Half_25C
+S49-Half25-Yes-16S	S49	Half	25C	Protist	keep	Half_25C
+S5-Half22-Yes-16S	S5	Half	22C	Protist	keep	Half_22C
+S50-Half25-Yes-16S	S50	Half	25C	Protist	keep	Half_25C
+S51-Half25-No-16S	S51	Half	25C	No protist	keep	Half_25C
+S52-Half25-No-16S	S52	Half	25C	No protist	keep	Half_25C
+S53-Half25-No-16S	S53	Half	25C	No protist	keep	Half_25C
+S54-Half25-No-16S	S54	Half	25C	No protist	keep	Half_25C
+S55-Half25-No-16S	S55	Half	25C	No protist	keep	Half_25C
+S56-Half25-No-16S	S56	Half	25C	No protist	keep	Half_25C
+S57-Half25-No-16S	S57	Half	25C	No protist	keep	Half_25C
+S58-Half25-No-16S	S58	Half	25C	No protist	keep	Half_25C
+S59-Half25-No-16S	S59	Half	25C	No protist	keep	Half_25C
+S6-Half22-Yes-16S	S6	Half	22C	Protist	keep	Half_22C
+S60-Half25-No-16S	S60	Half	25C	No protist	keep	Half_25C
+S61-Full22-Yes-16S	S61	Full	22C	Protist	keep	Full_22C
+S62-Full22-Yes-16S	S62	Full	22C	Protist	keep	Full_22C
+S63-Full22-Yes-16S	S63	Full	22C	Protist	keep	Full_22C
+S64-Full22-Yes-16S	S64	Full	22C	Protist	keep	Full_22C
+S65-Full22-Yes-16S	S65	Full	22C	Protist	keep	Full_22C
+S66-Full22-Yes-16S	S66	Full	22C	Protist	keep	Full_22C
+S67-Full22-Yes-16S	S67	Full	22C	Protist	keep	Full_22C
+S68-Full22-Yes-16S	S68	Full	22C	Protist	keep	Full_22C
+S69-Full22-Yes-16S	S69	Full	22C	Protist	keep	Full_22C
+S7-Half22-Yes-16S	S7	Half	22C	Protist	keep	Half_22C
+S70-Full22-Yes-16S	S70	Full	22C	Protist	keep	Full_22C
+S71-Full22-Yes-16S	S71	Full	22C	Protist	keep	Full_22C
+S72-Full22-Yes-16S	S72	Full	22C	Protist	keep	Full_22C
+S73-Full22-Yes-16S	S73	Full	22C	Protist	keep	Full_22C
+S74-Full22-Yes-16S	S74	Full	22C	Protist	keep	Full_22C
+S75-Full22-Yes-16S	S75	Full	22C	Protist	keep	Full_22C
+S76-Full22-Yes-16S	S76	Full	22C	Protist	keep	Full_22C
+S77-Full22-Yes-16S	S77	Full	22C	Protist	keep	Full_22C
+S78-Full22-Yes-16S	S78	Full	22C	Protist	keep	Full_22C
+S79-Full22-Yes-16S	S79	Full	22C	Protist	keep	Full_22C
+S8-Half22-Yes-16S	S8	Half	22C	Protist	keep	Half_22C
+S80-Full22-Yes-16S	S80	Full	22C	Protist	keep	Full_22C
+S81-Full22-No-16S	S81	Full	22C	No protist	keep	Full_22C
+S82-Full22-No-16S	S82	Full	22C	No protist	keep	Full_22C
+S83-Full22-No-16S	S83	Full	22C	No protist	keep	Full_22C
+S84-Full22-No-16S	S84	Full	22C	No protist	keep	Full_22C
+S85-Full22-No-16S	S85	Full	22C	No protist	keep	Full_22C
+S86-Full22-No-16S	S86	Full	22C	No protist	keep	Full_22C
+S87-Full22-No-16S	S87	Full	22C	No protist	keep	Full_22C
+S88-Full22-No-16S	S88	Full	22C	No protist	keep	Full_22C
+S89-Full22-No-16S	S89	Full	22C	No protist	keep	Full_22C
+S9-Half22-Yes-16S	S9	Half	22C	Protist	keep	Half_22C
+S90-Full22-No-16S	S90	Full	22C	No protist	keep	Full_22C
+S91-Full25-Yes-16S	S91	Full	25C	Protist	keep	Full_25C
+S92-Full25-Yes-16S	S92	Full	25C	Protist	keep	Full_25C
+S93-Full25-Yes-16S	S93	Full	25C	Protist	keep	Full_25C
+S94-Full25-Yes-16S	S94	Full	25C	Protist	keep	Full_25C
+S95-Full25-Yes-16S	S95	Full	25C	Protist	keep	Full_25C
+S96-Full25-Yes-16S	S96	Full	25C	Protist	keep	Full_25C
+S97-Full25-Yes-16S	S97	Full	25C	Protist	out	Full_25C
+S97-Full25-Yes-16SB	S97	Full	25C	Protist	keep	Full_25C
+S98-Full25-Yes-16S	S98	Full	25C	Protist	out	Full_25C
+S98-Full25-Yes-16SB	S98	Full	25C	Protist	keep	Full_25C
+S99-Full25-Yes-16S	S99	Full	25C	Protist	out	Full_25C
+S99-Full25-Yes-16SB	S99	Full	25C	Protist	keep	Full_25C
