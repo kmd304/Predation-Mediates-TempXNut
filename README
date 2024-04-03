@@ -10,7 +10,8 @@ The following code was used in the analysis of this study:
 5. Bioinformatic handling of the 16S Illumina sequence data, and subsequent analysis-------(CODE: protist_16S_processing_analysis.R)
 
 Raw sequence data for this project is open-access and available on the NCBI SRA database:
-    Project accession: 
-    Sample accessions: 
+    Project accession: 	PRJNA1095004
+    https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1095004
+
 
 Funding for this project: This work was supported by the US Department of Energy, Office of Science, Office of Biological and Environmental Research, Genomic Science Program Grant award number DE-SC0020362, NSF DEB award number 2224819, and a Simons Foundation Early Career Fellowship in Aquatic Microbial Ecology and Evolution number LS-ECIAMEE-00001588 to JPG. Additional support for prokaryotic and a ciliate collection from SPRUCE, was supported by US Department of Energy (DOE), Grant/Award Number: DE-AC05–00OR22725 to DJW.
